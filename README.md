@@ -5,5 +5,7 @@
 ## Languages:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,sass,js,ruby)](https://skillicons.dev)
 ## Framework/Libraries:
-[![My Skills](https://skillicons.dev/icons?i=rails,bootstrap,sqlite,tailwind,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rails,bootstrap,tailwind,react)](https://skillicons.dev)
+## Database:
+[![My Skills](https://skillicons.dev/icons?i=sqlite,mysql)](https://skillicons.dev)
 
