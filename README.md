@@ -1,11 +1,10 @@
 ## Hi there, I'm Chong Wei Jie 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cwjiee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## Tech Stack:
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,sass,js,ruby,rails,bootstrap,tailwind,react,sqlite,mysql)](https://skillicons.dev)<br><br>
 
-## Languages:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,sass,js,ruby)](https://skillicons.dev)
-## Framework/Libraries:
-[![My Skills](https://skillicons.dev/icons?i=rails,bootstrap,tailwind,react)](https://skillicons.dev)
-## Database:
-[![My Skills](https://skillicons.dev/icons?i=sqlite,mysql)](https://skillicons.dev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cwjiee&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)<br><br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cwjiee&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
